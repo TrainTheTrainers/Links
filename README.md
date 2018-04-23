@@ -9,5 +9,5 @@ Usefull URL's
 *  QGIS https://www.qgis.org
 *  Slack https://slack.com
 
-  
+  revision 23.04.2018 14.33 min
  
